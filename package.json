@@ -1,0 +1,22 @@
+{
+  "name": "bs-5-starter-template",
+  "version": "1.0.0",
+  "description": "starter template for BS-5 sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gary-FullStack/BS-5-Starter-template.git"
+  },
+  "keywords": [
+    "BootStrap5"
+  ],
+  "author": "Gary M.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gary-FullStack/BS-5-Starter-template/issues"
+  },
+  "homepage": "https://github.com/Gary-FullStack/BS-5-Starter-template#readme"
+}
